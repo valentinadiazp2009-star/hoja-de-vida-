@@ -1,3 +1,4 @@
+body { background-color: #000000; color: #ffffff; font-family: monospace; }
 h1 { color: #00ff00; text-align: center; font-size: 32px; }
 h2 { color: #00e5ff; border-bottom: 1px solid #00ff00; }
 .juana { color: #00e5ff; text-transform: uppercase; }
